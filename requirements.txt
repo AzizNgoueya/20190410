@@ -1,0 +1,4 @@
+numpy==1.16.*
+matplotlib==3.*
+qiskit==0.8.0
+qiskit-aqua==0.4.*
